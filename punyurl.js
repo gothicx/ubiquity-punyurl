@@ -1,10 +1,9 @@
-// Source code for the SAPO PunyURL Ubiquity command
-// bY Marco Rodrigues - http://www.marblehole.com
+// SAPO PunyURL Ubiquity
 
 CmdUtils.CreateCommand({
   names: ["punyurl", "puny.sapo"],
   arguments: [{role: "object", nountype: noun_type_url, label: "URL to Shorten"}],
-  homepage: "http://marco.tondela.org",
+  homepage: "http://www.marblehole.com",
   author: {name: "Marco Rodrigues", email: "gothicx@gmail.com" },
   description: "Shortens and replaces the selected URL using <a href=\"http://puny.sapo.pt\">SAPO PunyURL</a>, copying the new URL to the clipboard.",
   icon: "http://imgs.sapo.pt/images/sapo.ico",
