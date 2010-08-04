@@ -1,13 +1,13 @@
-= Ubiquity PunyURL
+= Ubiquity PunyURL =
 
 PunyURL is a URL shortening service provided by SAPO (http:/www.sapo.pt)
 Homepage: http://services.sapo.pt/Metadata/Service/PunyURL?culture=EN
 
-== Features
+= Features =
 
 * Shortens URLs
 
-== Install
+= Install =
 
 * Install Ubiquity addon and restart Firefox.
 * Download this plugin and open punyurl.htm
@@ -16,6 +16,6 @@ Homepage: http://services.sapo.pt/Metadata/Service/PunyURL?culture=EN
 
 If it didn't appear, type the command "punyurl" or "puny.sapo".
 
-== Copyright
+= Copyright =
 
 See LICENSE for details.
